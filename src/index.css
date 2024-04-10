@@ -333,6 +333,7 @@ body{
 .congratulations{
   display: flex;
   align-items: center;
+  flex-direction: column;
   margin-top: 60px;
   gap: 20px;
 }
